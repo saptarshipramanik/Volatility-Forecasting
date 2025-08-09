@@ -1,0 +1,6 @@
+List of Python dependencies:
+numpy
+pandas
+matplotlib
+arch
+scikit-learn
